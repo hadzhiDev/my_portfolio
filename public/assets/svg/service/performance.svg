@@ -1,0 +1,15 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#FD6F00"
+    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="3" y1="11" x2="29" y2="11" />
+    <line x1="7" y1="8" x2="7" y2="8" />
+    <line x1="10" y1="8" x2="10" y2="8" />
+    <line x1="13" y1="8" x2="13" y2="8" />
+    <path
+        d="M22,25c2.4,0,4.5,1.2,5.7,3c0.8-1.1,1.3-2.5,1.3-4c0-3.9-3.1-7-7-7s-7,3.1-7,7c0,1.5,0.5,2.9,1.3,4 C17.5,26.2,19.6,25,22,25z" />
+    <polyline points="29,12 29,5 3,5 3,27 15,27" />
+    <line x1="22" y1="25" x2="25" y2="21" />
+    <line x1="29" y1="24" x2="29" y2="11" />
+    <line x1="7" y1="15" x2="12" y2="15" />
+    <line x1="7" y1="18" x2="9" y2="18" />
+</svg>
+  

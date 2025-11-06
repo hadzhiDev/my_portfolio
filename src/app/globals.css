@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+@theme {
+  --font-k2d: "K2D", sans-serif;
+  --font-lato: "Lato", sans-serif;
+
+  --color-custom-black: #121212;
+
+  --breakpoint-1200px: 1240px;
+  --breakpoint-1000px: 1040px;
+  --breakpoint-800px: 840px;
+  --breakpoint-600px: 640px;
+  --breakpoint-425px: 445px;
+  --breakpoint-320px: 340px;
+}
+
+* {
+  scroll-behavior: smooth;
+  scroll-padding-top: 50px;
+}
+
+.container {
+  max-width: 1300px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+.title_svg_animation {
+  animation: rotatestar 25s infinite linear;
+}
+
+@keyframes rotatestar {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 1920px) {
+  .container {
+    max-width: 1300px;
+  }
+}
+
+@media (max-width: 1340px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+
+@media (max-width: 1240px) {
+  .container {
+    max-width: 1000px;
+  }
+}
+
+@media (max-width: 1040px) {
+  .container {
+    max-width: 800px;
+  }
+}
+
+@media (max-width: 840px) {
+  .container {
+    max-width: 600px;
+  }
+}
+
+@media (max-width: 640px) {
+  .container {
+    max-width: 425px;
+  }
+}
+
+@media (max-width: 445px) {
+  .container {
+    max-width: 320px;
+  }
+}
+
+@media (max-width: 340px) {
+  .container {
+    max-width: 340px;
+  }
+}
+
+
+
+
+
+.burger_animate_1 {
+  animation: burger_animate_1 0.2s 1 linear;
+}
+
+@keyframes burger_animate_1 {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+
+
+
+
+.burger_animate_2 {
+  animation: burger_animate_2 0.2s 1 linear;
+}
+
+@keyframes burger_animate_2 {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
