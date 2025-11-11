@@ -122,7 +122,7 @@ export const BaseSkillsIcons = [
 
 export const PortfolioWebsites = [
     {
-        id: 3,
+        id: 1,
         title: "Nerzhaveyka",
         subTitle: "Nerzhaveyka — это интернет-магазин и производственная компания из Бишкека, специализирующаяся на изготовлении и продаже изделий из нержавеющей стали",
         link: "https://nerzhaveyka.kg/",
@@ -150,7 +150,7 @@ export const PortfolioWebsites = [
         ]
     },
     {
-        id: 4,
+        id: 2,
         title: "Osh City",
         subTitle: "ЖК «Ош-Сити» — масштабный жилой проект нового поколения, расположенный в самом центре Оша. Он создаётся по принципу «всё рядом»: жильё, инфраструктура, IT-объекты — всё в едином комплексе",
         link: "https://osh-city.kg/",
@@ -175,6 +175,150 @@ export const PortfolioWebsites = [
                 id: 5,
                 image: "/assets/img/osh_city/image_4.png"
             }
+        ]
+    },
+    {
+        id: 3,
+        title: "jerdeshmoskva.ru",
+        subTitle: "jerdeshmoskva.ru — интернет-платформа, где собраны объявления о работе, жилье и услугах в Москве.",
+        link: "https://jerdeshmoskva.ru/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/jerdesh/image_0.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/jerdesh/image_1.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/jerdesh/image_2.png"
+            },
+            {
+                id: 4,
+                image: "/assets/img/jerdesh/image_3.png"
+            },
+        ]
+    },
+    {
+        id: 4,
+        title: "Polaris Ltd",
+        subTitle: "Polaris Ltd — компания, специализирующаяся на продаже автомобильных шин и комплексных сервисах их обслуживания на территории Кыргызстана.",
+        link: "https://polaris-ltd.kg/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/polaris/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/polaris/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/polaris/image_3.png"
+            },
+        ]
+    },
+    {
+        id: 5,
+        title: "ДиапФ",
+        subTitle: "ДиапФ — компания-центр услуг в Кыргызстане, предлагающая комплекс решений в области информационных технологий и программного обеспечения с акцентом на бизнес-задачи.",
+        link: "https://diapf.kg/ru/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/diapf/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/diapf/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/diapf/image_3.png"
+            },
+        ]
+    },
+    {
+        id: 6,
+        title: "TES-Centre",
+        subTitle: "TES-Centre — неправительственная организация Кыргызстана, действующая с 1999 года при участии GTZ и Osh State University. ",
+        link: "https://tes-centre.kg/en/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/tes_center/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/tes_center/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/tes_center/image_3.png"
+            },
+        ]
+    },
+    {
+        id: 7,
+        title: "Gapchy",
+        subTitle: "Gapchy — это онлайн-платформа/приложение, предлагающее пользователям возможность создавать собственные приложения без необходимости программирования.",
+        link: "https://app.gapchy.com/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/gapchy/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/gapchy/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/gapchy/image_3.png"
+            },
+        ]
+    },
+    {
+        id: 8,
+        title: "SMMCopilot AI",
+        subTitle: "SMMCopilot AI — облачная платформа-ассистент для маркетинга в соцсетях, использующая искусственный интеллект.",
+        link: "https://app.smmcopilot.ai/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/smmcopilot/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/smmcopilot/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/smmcopilot/image_3.png"
+            },
+        ]
+    },
+    {
+        id: 9,
+        title: "Enactus Кыргызстан",
+        subTitle: "Enactus Кыргызстан — портал для студентов-предпринимателей и социальных проектов На сайте представлена платформа, нацеленная на поддержку молодёжного предпринимательства и социального бизнеса в Кыргызстане. Здесь можно найти информацию о миссии и ценностях организации, подключиться к командам, узнать о конкурсах и событиях, которые организуются в рамках Enactus-движения.",
+        link: "https://portal.enactus.kg/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/enactus/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/enactus/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/enactus/image_3.png"
+            },
         ]
     },
 ]
