@@ -17,7 +17,7 @@ interface PortfolioItemProps {
 export default function PortfolioItem({ title, subTitle, link, images }: PortfolioItemProps) {
     return (
         <div className="bg-[rgba(255,255,255,0.08)] rounded-[16px] overflow-hidden flex flex-col">
-            <div className="bg-white w-full h-[400px] max-1200px:h-[300px] max-1000px:h-[230px] relative">
+            <div className="bg-white w-full h-[400px] min-h-[400px] max-1200px:h-[300px] max-1000px:h-[230px] relative max-1200px:min-h-[300px] max-1000px:min-h-[230px]">
                 <Swiper
                     navigation={{
                         nextEl: ".next-projectsSlide-button",

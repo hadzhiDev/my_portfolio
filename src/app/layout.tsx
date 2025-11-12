@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({ children }: { children: ReactNode }) {
+export default async function RootLayout({ children }: { children: ReactNode}) {
   return (
     <html lang="ru">
       <body className="bg-custom-black dark:bg-[#E8D4B7]">

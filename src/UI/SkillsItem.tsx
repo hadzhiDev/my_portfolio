@@ -13,3 +13,4 @@ export default function SkillsItem({ title, children }: SkillsItemProps) {
         </div>
     )
 }
+

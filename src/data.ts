@@ -34,12 +34,12 @@ export const baseNavLinks = [
 
 export const BaseSkillsIcons = [
     {
-        id: 5,
+        id: 1,
         name: "HTML",
         icon: "/assets/svg/skills/html.svg"
     },
     {
-        id: 6,
+        id: 2,
         name: "CSS",
         icon: "/assets/svg/skills/css.svg"
     },
@@ -54,22 +54,22 @@ export const BaseSkillsIcons = [
         icon: "/assets/svg/skills/javascript.svg"
     },
     {
-        id: 7,
+        id: 5,
         name: "GitHub",
         icon: "/assets/svg/skills/github.svg"
     },
     {
-        id: 1,
+        id: 6,
         name: "Git",
         icon: "/assets/svg/skills/git.svg"
     },
     {
-        id: 8,
+        id: 7,
         name: "Python",
         icon: "/assets/svg/skills/python.svg"
     },
     {
-        id: 9,
+        id: 8,
         name: "Django",
         icon: "/assets/svg/skills/django.svg"
     },
@@ -79,32 +79,32 @@ export const BaseSkillsIcons = [
         icon: "/assets/svg/skills/fastapi.svg"
     },
     {
-        id: 15,
+        id: 10,
         name: "DRF",
         icon: "/assets/svg/skills/drf.svg"
     },
     {
-        id: 10,
+        id: 11,
         name: "Docker",
         icon: "/assets/svg/skills/docker.svg"
     },
     {
-        id: 11,
+        id: 12,
         name: "Nginx",
         icon: "/assets/svg/skills/nginx.svg"
     },
     {
-        id: 12,
+        id: 13,
         name: "PostgreSQL",
         icon: "/assets/svg/skills/postgresql.svg"
     },
     {
-        id: 13,
+        id: 14,
         name: "SQL",
         icon: "/assets/svg/skills/sql.svg"
     },
     {
-        id: 14,
+        id: 15,
         name: "Celery",
         icon: "/assets/svg/skills/celery.svg"
     },
@@ -114,41 +114,13 @@ export const BaseSkillsIcons = [
         icon: "/assets/svg/skills/pycharm.svg"
     },
     {
-        id: 2,
+        id: 17,
         name: "VsCode",
         icon: "/assets/svg/skills/vscode.svg"
     },
 ]
 
 export const PortfolioWebsites = [
-    {
-        id: 1,
-        title: "Nerzhaveyka",
-        subTitle: "Nerzhaveyka — это интернет-магазин и производственная компания из Бишкека, специализирующаяся на изготовлении и продаже изделий из нержавеющей стали",
-        link: "https://nerzhaveyka.kg/",
-        images: [
-            {
-                id: 1,
-                image: "/assets/img/nerjaveyka/image_1.png"
-            },
-            {
-                id: 2,
-                image: "/assets/img/nerjaveyka/image_2.png"
-            },
-            {
-                id: 3,
-                image: "/assets/img/nerjaveyka/image_3.png"
-            },
-            {
-                id: 4,
-                image: "/assets/img/nerjaveyka/image_4.png"
-            },
-            {
-                id: 5,
-                image: "/assets/img/nerjaveyka/image_5.png"
-            }
-        ]
-    },
     {
         id: 2,
         title: "Osh City",
@@ -259,6 +231,34 @@ export const PortfolioWebsites = [
                 id: 3,
                 image: "/assets/img/tes_center/image_3.png"
             },
+        ]
+    },
+    {
+        id: 1,
+        title: "Nerzhaveyka",
+        subTitle: "Nerzhaveyka — это интернет-магазин и производственная компания из Бишкека, специализирующаяся на изготовлении и продаже изделий из нержавеющей стали",
+        link: "https://nerzhaveyka.kg/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/nerjaveyka/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/nerjaveyka/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/nerjaveyka/image_3.png"
+            },
+            {
+                id: 4,
+                image: "/assets/img/nerjaveyka/image_4.png"
+            },
+            {
+                id: 5,
+                image: "/assets/img/nerjaveyka/image_5.png"
+            }
         ]
     },
     {
