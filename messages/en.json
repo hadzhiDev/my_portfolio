@@ -10,8 +10,8 @@
   },
   "AboutMe": {
     "title": "About Me",
-    "subTitle": "I create interactive and high-performance web applications with clean and maintainable code",
-    "myText": "I am a frontend developer experienced in React and Next.js, with a deep understanding of TypeScript, Redux, Zustand, and modern frontend tools such as Tailwind CSS and Storybook. I build complex interactive interfaces, optimize application performance, and ensure code cleanliness and maintainability. <br/> I have experience working with REST API, Firebase, version control systems like Git, and modern build and development tools (Vite, Webpack, ESLint). I quickly adapt to new technologies and approaches, and I am able to work both in a team and independently. <br/> For me, it is important to bring projects to completion, making them user-friendly and easy to maintain for the team. I strive to write code that is understandable both for other developers and for myself months later."
+    "subTitle": "I design reliable and scalable backend solutions with a strong focus on stability and clean architecture",
+    "myText": "I am a backend developer specializing in Python and Django. I design REST APIs, build well-structured and logical architectures, and optimize server performance for high-load systems. <br/> I have hands-on experience deploying and administering projects on Ubuntu using Gunicorn, Nginx, and Docker. I pay close attention to security, performance, and application reliability. <br/> I work with PostgreSQL and Redis, integrate third-party services, and set up CI/CD pipelines to ensure stable and predictable releases. <br/> For me, backend development is not just about functionality — it’s about creating thoughtful, reliable, and maintainable systems that are easy for the whole team to understand and evolve. I strive to write clean code that remains clear and manageable long after it’s written, and to build systems that work smoothly without unnecessary complexity."
   },
   "Skills": {
     "title": "Skills",
