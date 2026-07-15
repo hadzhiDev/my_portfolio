@@ -122,6 +122,70 @@ export const BaseSkillsIcons = [
 
 export const PortfolioWebsites = [
     {
+        id: 7,
+        title: "PROlab Workspace",
+        subTitle: "PROlab Workspace — это онлайн-платформа/приложение, предлагающее пользователям возможность создавать собственные приложения без необходимости программирования.",
+        link: "https://prolabworkspace.com/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/gapchy/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/gapchy/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/gapchy/image_3.png"
+            },
+        ]
+    },
+    {
+        id: 8,
+        title: "SMMCopilot AI",
+        subTitle: "SMMCopilot AI — облачная платформа-ассистент для маркетинга в соцсетях, использующая искусственный интеллект.",
+        link: "https://smmcopilot.ai/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/smmcopilot/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/smmcopilot/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/smmcopilot/image_3.png"
+            },
+        ]
+    },
+    {
+        id: 3,
+        title: "Jerdesh Moskva",
+        subTitle: "jerdeshmoskva.ru — интернет-платформа, где собраны объявления о работе, жилье и услугах в Москве.",
+        link: "https://jerdeshmoskva.ru/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/jerdesh/image_0.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/jerdesh/image_1.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/jerdesh/image_2.png"
+            },
+            {
+                id: 4,
+                image: "/assets/img/jerdesh/image_3.png"
+            },
+        ]
+    },
+    {
         id: 2,
         title: "Osh City",
         subTitle: "ЖК «Ош-Сити» — масштабный жилой проект нового поколения, расположенный в самом центре Оша. Он создаётся по принципу «всё рядом»: жильё, инфраструктура, IT-объекты — всё в едином комплексе",
@@ -150,30 +214,6 @@ export const PortfolioWebsites = [
         ]
     },
     {
-        id: 3,
-        title: "jerdeshmoskva.ru",
-        subTitle: "jerdeshmoskva.ru — интернет-платформа, где собраны объявления о работе, жилье и услугах в Москве.",
-        link: "https://jerdeshmoskva.ru/",
-        images: [
-            {
-                id: 1,
-                image: "/assets/img/jerdesh/image_0.png"
-            },
-            {
-                id: 2,
-                image: "/assets/img/jerdesh/image_1.png"
-            },
-            {
-                id: 3,
-                image: "/assets/img/jerdesh/image_2.png"
-            },
-            {
-                id: 4,
-                image: "/assets/img/jerdesh/image_3.png"
-            },
-        ]
-    },
-    {
         id: 4,
         title: "Polaris Ltd",
         subTitle: "Polaris Ltd — компания, специализирующаяся на продаже автомобильных шин и комплексных сервисах их обслуживания на территории Кыргызстана.",
@@ -194,9 +234,29 @@ export const PortfolioWebsites = [
         ]
     },
     {
+        id: 9,
+        title: "Enactus Kyrgyzstan",
+        subTitle: "Enactus Kyrgyzstan — портал для студентов-предпринимателей и социальных проектов На сайте представлена платформа, нацеленная на поддержку молодёжного предпринимательства и социального бизнеса в Кыргызстане. Здесь можно найти информацию о миссии и ценностях организации, подключиться к командам, узнать о конкурсах и событиях, которые организуются в рамках Enactus-движения.",
+        link: "https://portal.enactus.kg/",
+        images: [
+            {
+                id: 1,
+                image: "/assets/img/enactus/image_1.png"
+            },
+            {
+                id: 2,
+                image: "/assets/img/enactus/image_2.png"
+            },
+            {
+                id: 3,
+                image: "/assets/img/enactus/image_3.png"
+            },
+        ]
+    },
+    {
         id: 5,
-        title: "ДиапФ",
-        subTitle: "ДиапФ — компания-центр услуг в Кыргызстане, предлагающая комплекс решений в области информационных технологий и программного обеспечения с акцентом на бизнес-задачи.",
+        title: "DIAPF",
+        subTitle: "DIAPF — компания-центр услуг в Кыргызстане, предлагающая комплекс решений в области информационных технологий и программного обеспечения с акцентом на бизнес-задачи.",
         link: "https://diapf.kg/ru/",
         images: [
             {
@@ -259,66 +319,6 @@ export const PortfolioWebsites = [
                 id: 5,
                 image: "/assets/img/nerjaveyka/image_5.png"
             }
-        ]
-    },
-    {
-        id: 7,
-        title: "Gapchy",
-        subTitle: "Gapchy — это онлайн-платформа/приложение, предлагающее пользователям возможность создавать собственные приложения без необходимости программирования.",
-        link: "https://app.gapchy.com/",
-        images: [
-            {
-                id: 1,
-                image: "/assets/img/gapchy/image_1.png"
-            },
-            {
-                id: 2,
-                image: "/assets/img/gapchy/image_2.png"
-            },
-            {
-                id: 3,
-                image: "/assets/img/gapchy/image_3.png"
-            },
-        ]
-    },
-    {
-        id: 8,
-        title: "SMMCopilot AI",
-        subTitle: "SMMCopilot AI — облачная платформа-ассистент для маркетинга в соцсетях, использующая искусственный интеллект.",
-        link: "https://app.smmcopilot.ai/",
-        images: [
-            {
-                id: 1,
-                image: "/assets/img/smmcopilot/image_1.png"
-            },
-            {
-                id: 2,
-                image: "/assets/img/smmcopilot/image_2.png"
-            },
-            {
-                id: 3,
-                image: "/assets/img/smmcopilot/image_3.png"
-            },
-        ]
-    },
-    {
-        id: 9,
-        title: "Enactus Кыргызстан",
-        subTitle: "Enactus Кыргызстан — портал для студентов-предпринимателей и социальных проектов На сайте представлена платформа, нацеленная на поддержку молодёжного предпринимательства и социального бизнеса в Кыргызстане. Здесь можно найти информацию о миссии и ценностях организации, подключиться к командам, узнать о конкурсах и событиях, которые организуются в рамках Enactus-движения.",
-        link: "https://portal.enactus.kg/",
-        images: [
-            {
-                id: 1,
-                image: "/assets/img/enactus/image_1.png"
-            },
-            {
-                id: 2,
-                image: "/assets/img/enactus/image_2.png"
-            },
-            {
-                id: 3,
-                image: "/assets/img/enactus/image_3.png"
-            },
         ]
     },
 ]
@@ -408,13 +408,13 @@ export const MoreInfoWelcome = [
     },
     {
         id: 2,
-        title: "20+",
+        title: "40+",
         ru: "успешные проекты",
         en: "Project done",
     },
     {
         id: 3,
-        title: "10+",
+        title: "30+",
         ru: "клиенты",
         en: "Happy Clients",
     }
